@@ -1,0 +1,26 @@
+addsuite,ispd98,mincut,http://dx.doi.org/10.1145/274535.274546,url,mincut,avgcut,sod,time,ISPD 98 Partitioning Benchmarks
+addbench,ibm01,url,"12506 cells, 14111 nets"
+addbench,ibm02,url,"19342 cells, 19584 nets"
+addbench,ibm03,url,"22853 cells, 27401 nets"
+addbench,ibm04,url,"27220 cells, 31970 nets"
+addbench,ibm05,url,"28146 cells, 28446 nets"
+addbench,ibm06,url,"32332 cells, 34826 nets"
+addbench,ibm07,url,"45639 cells, 48117 nets"
+addbench,ibm08,url,"51023 cells, 50513 nets"
+addbench,ibm09,url,"53110 cells, 60902 nets"
+addbench,ibm10,url,"68685 cells, 75196 nets"
+addbench,ibm11,url,"70152 cells, 81454 nets"
+addbench,ibm12,url,"70439 cells, 77240 nets"
+addbench,ibm13,url,"83709 cells, 99666 nets"
+addbench,ibm14,url,"147088 cells, 152772 nets"
+addbench,ibm15,url,"161187 cells, 186608 nets"
+addbench,ibm16,url,"182980 cells, 190048 nets"
+addbench,ibm17,url,"184752 cells, 189581 nets"
+addbench,ibm18,url,"210341 cells, 201920 nets"
+
+importdir,ispd98
+
+,Who has this?,Status?
+to-do,Dishant,Done,Add info for each of the benchmarks (should be ibm01 to ibm18)
+,Dishant,Done,"Fill out numbers for fm, clip, hMetis on the mincut table (table 3)"
+,,,"Find other partitioning papers that use ISPD98 benchmark set, and drop in tabs for them!"

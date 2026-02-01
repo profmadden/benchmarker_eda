@@ -1,0 +1,20 @@
+suite,iccad04,default
+addtool,ntuplace,http://dx.doi.org/10.1109/TCAD.2014.2360453,NTU Place 4.0
+addrelease,ntuplace,4.0
+result,ibm01,2230000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm02,4670000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm03,6690000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm04,7470000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm06,5900000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm07,9960000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm08,12800000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm09,12000000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm10,29100000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm11,18100000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm12,33500000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm13,22600000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm14,35800000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm15,47500000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm16,58500000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm17,69400000.00,0,0,0,Result from the NTUPlace4 paper
+result,ibm18,43500000.00,0,0,0,Result from the NTUPlace4 paper

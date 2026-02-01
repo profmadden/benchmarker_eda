@@ -1,0 +1,20 @@
+suite,ispd02,default
+addtool,capo2,url,Capo version 1 ISPD02
+addrelease,capo2,ispd02
+result,ibm01,3360000.00,0,0,0,x
+result,ibm02,8230000.00,0,0,0,x
+result,ibm03,11500000.00,0,0,0,x
+result,ibm04,11900000.00,0,0,0,x
+result,ibm06,9630000.00,0,0,0,x
+result,ibm07,15800000.00,0,0,0,x
+result,ibm08,18900000.00,0,0,0,x
+result,ibm09,17500000.00,0,0,0,x
+result,ibm10,53600000.00,0,0,0,x
+result,ibm11,26500000.00,0,0,0,x
+result,ibm12,55100000.00,0,0,0,x
+result,ibm13,33600000.00,0,0,0,x
+result,ibm14,52700000.00,0,0,0,x
+result,ibm15,64700000.00,0,0,0,x
+result,ibm16,83100000.00,0,0,0,x
+result,ibm17,91500000.00,0,0,0,x
+result,ibm18,54100000.00,0,0,0,x

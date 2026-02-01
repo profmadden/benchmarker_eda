@@ -1,0 +1,21 @@
+addsuite,iccad04,default,https://ieeexplore.ieee.org/document/1382639,http://vlsicad.eecs.umich.edu/BK/PlaceUtils/,hpwl,time,na,na,ICCAD04 mixed size placement
+addbench,ibm01,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"12652 cells, 246 macros"
+addbench,ibm02,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"19584 cells, 271 macros"
+addbench,ibm03,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"27322 cells, 290 macros"
+addbench,ibm04,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"27220 cells, 295 macros"
+addbench,ibm05,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"28146 cells, zero macros.  Commonly skipped on mixed size placement tables"
+addbench,ibm06,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"34826 cells, 178 macros"
+addbench,ibm07,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,"45348 cells, 291 macros"
+addbench,ibm08,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,48268 cells
+addbench,ibm09,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,50393 cells
+addbench,ibm10,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,58014 cells
+addbench,ibm11,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,70558 cells
+addbench,ibm12,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,77240 cells
+addbench,ibm13,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,83252 cells
+addbench,ibm14,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,85952 cells
+addbench,ibm15,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,101150 cells
+addbench,ibm16,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,108172 cells
+addbench,ibm17,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,138290 cells
+addbench,ibm18,http://vlsicad.eecs.umich.edu/BK/ICCAD04bench/,210612 cells
+
+importdir,iccad04

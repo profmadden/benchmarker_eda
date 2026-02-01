@@ -1,0 +1,21 @@
+suite,ispd98,mincut
+addtool,fm,https://dl.acm.org/doi/10.5555/800263.809204,"Fiduccia-Mattheyses graph partitioner, implemented by Alpert"
+addrelease,fm,1
+result,ibm01,191,466,4.1,0,Taken from Alpert ISPD98
+result,ibm02,266,506,6.9,0,Taken from Alpert ISPD98
+result,ibm03,1150,2131,16.3,0,Taken from Alpert ISPD98
+result,ibm04,603,1105,14,0,Taken from Alpert ISPD98
+result,ibm05,1874,3063,24.4,0,Taken from Alpert ISPD98
+result,ibm06,973,1384,16.7,0,Taken from Alpert ISPD98
+result,ibm07,1037,2036,26.5,0,Taken from Alpert ISPD98
+result,ibm08,1285,2757,41,0,Taken from Alpert ISPD98
+result,ibm09,912,2547,40.1,0,Taken from Alpert ISPD98
+result,ibm10,1490,2660,51.2,0,Taken from Alpert ISPD98
+result,ibm11,1459,4173,52.6,0,Taken from Alpert ISPD98
+result,ibm12,2256,3791,71.6,0,Taken from Alpert ISPD98
+result,ibm13,1181,2249,59.3,0,Taken from Alpert ISPD98
+result,ibm14,2963,6824,163.1,0,Taken from Alpert ISPD98
+result,ibm15,5106,7770,123.1,0,Taken from Alpert ISPD98
+result,ibm16,2363,5668,143.5,0,Taken from Alpert ISPD98
+result,ibm17,3052,7212,188.6,0,Taken from Alpert ISPD98
+result,ibm18,1706,3686,204.5,0,Taken from Alpert ISPD98

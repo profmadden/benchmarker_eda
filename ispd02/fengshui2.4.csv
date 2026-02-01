@@ -1,0 +1,20 @@
+suite,ispd02,default
+addtool,fengshui,url,Feng Shui 2.4 ISPD02 benchmarks
+addrelease,fengshui,2.4
+result,ibm01,2410000.00,0,0,0,x
+result,ibm02,5340000.00,0,0,0,x
+result,ibm03,7510000.00,0,0,0,x
+result,ibm04,7960000.00,0,0,0,x
+result,ibm06,6820000.00,0,0,0,x
+result,ibm07,11700000.00,0,0,0,x
+result,ibm08,13600000.00,0,0,0,x
+result,ibm09,13800000.00,0,0,0,x
+result,ibm10,37500000.00,0,0,0,x
+result,ibm11,20000000.00,0,0,0,x
+result,ibm12,35600000.00,0,0,0,x
+result,ibm13,25000000.00,0,0,0,x
+result,ibm14,38500000.00,0,0,0,x
+result,ibm15,52100000.00,0,0,0,x
+result,ibm16,61300000.00,0,0,0,x
+result,ibm17,70600000.00,0,0,0,x
+result,ibm18,45100000.00,0,0,0,x

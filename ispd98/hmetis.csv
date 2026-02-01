@@ -1,0 +1,21 @@
+suite,ispd98,mincut
+addtool,hmetis,http://ieeexplore.ieee.org/document/597203/,hMetis graph partitioner
+addrelease,hmetis,1
+result,ibm01,181,236,2.4,0,Taken from Alpert ISPD98
+result,ibm02,262,312,5.8,0,Taken from Alpert ISPD98
+result,ibm03,959,1068,6.8,0,Taken from Alpert ISPD98
+result,ibm04,542,588,7.3,0,Taken from Alpert ISPD98
+result,ibm05,1740,1838,9.1,0,Taken from Alpert ISPD98
+result,ibm06,885,1023,10.7,0,Taken from Alpert ISPD98
+result,ibm07,848,930,17.8,0,Taken from Alpert ISPD98
+result,ibm08,1159,1194,25.7,0,Taken from Alpert ISPD98
+result,ibm09,624,685,14.9,0,Taken from Alpert ISPD98
+result,ibm10,1265,1573,29.8,0,Taken from Alpert ISPD98
+result,ibm11,963,1146,26.3,0,Taken from Alpert ISPD98
+result,ibm12,1899,2123,37.8,0,Taken from Alpert ISPD98
+result,ibm13,841,979,32.5,0,Taken from Alpert ISPD98
+result,ibm14,1928,2126,71.8,0,Taken from Alpert ISPD98
+result,ibm15,2750,3218,99,0,Taken from Alpert ISPD98
+result,ibm16,1758,2339,103.3,0,Taken from Alpert ISPD98
+result,ibm17,2341,2430,120.6,0,Taken from Alpert ISPD98
+result,ibm18,1528,1669,89.2,0,Taken from Alpert ISPD98

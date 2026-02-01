@@ -1,0 +1,23 @@
+suite,ispd2020,contest,Tejas is working
+addtool,bu_kmap,https://dl.acm.org/doi/10.1145/3505170.3506730,Binghamton University kernel mapping
+addrelease,bu_kmap,1
+result,a,34496,1314,35810,0
+result,b,64512,1913,66425,0
+result,c,64512,4108,68620,0
+result,d,33712,3588,37300,0
+result,e,34496,1314,47636,0
+result,f,64512,1913,83642,0
+result,g,64512,4108,105592,0
+result,h,33712,3588,69592,0
+result,i,49280,1504,55296,0
+result,j,49224,4361,66668,0
+result,k,252,423,1944,0
+result,l,252,867,3720,0
+result,m,2322432,3644,2337008,0
+result,n,1035,1490,6995,0
+result,o,49280,1504,109440,0
+result,p,49224,4361,223664,0
+result,q,252,423,17172,0
+result,r,252,867,34932,0
+result,s,2322432,3644,3780032,0
+result,t,1035,1490,60635,0

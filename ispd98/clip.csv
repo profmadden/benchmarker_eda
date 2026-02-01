@@ -1,0 +1,21 @@
+suite,ispd98,mincut
+addtool,clip,https://dl.acm.org/doi/10.5555/244522.244555,CLIP partitioner by Dutt & Deng; results from Alpert98
+addrelease,clip,1
+result,ibm01,181,390,5.5,0,Taken from Alpert ISPD98
+result,ibm02,265,545,10,0,Taken from Alpert ISPD98
+result,ibm03,1068,1593,16.1,0,Taken from Alpert ISPD98
+result,ibm04,563,1030,16,0,Taken from Alpert ISPD98
+result,ibm05,2146,3016,27,0,Taken from Alpert ISPD98
+result,ibm06,977,1520,19.6,0,Taken from Alpert ISPD98
+result,ibm07,929,1987,30.9,0,Taken from Alpert ISPD98
+result,ibm08,1261,2137,48.7,0,Taken from Alpert ISPD98
+result,ibm09,674,1770,37.3,0,Taken from Alpert ISPD98
+result,ibm10,1420,2745,59,0,Taken from Alpert ISPD98
+result,ibm11,1063,2657,57.7,0,Taken from Alpert ISPD98
+result,ibm12,2387,3770,67.7,0,Taken from Alpert ISPD98
+result,ibm13,913,1955,67.7,0,Taken from Alpert ISPD98
+result,ibm14,2536,4176,181,0,Taken from Alpert ISPD98
+result,ibm15,3571,5689,215.4,0,Taken from Alpert ISPD98
+result,ibm16,2638,5974,213.6,0,Taken from Alpert ISPD98
+result,ibm17,2803,6998,210.3,0,Taken from Alpert ISPD98
+result,ibm18,2268,5227,334,0,Taken from Alpert ISPD98

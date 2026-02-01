@@ -1,0 +1,20 @@
+suite,iccad04,default
+addtool,fengshui,http://dx.doi.org/10.1109/TCAD.2005.846363,Binghamton Feng Shui 5.1
+addrelease,fengshui,5.1,2005-04-01
+result,ibm01,2320000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm02,5270000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm03,7880000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm04,8390000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm06,6490000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm07,11000000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm08,13000000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm09,14500000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm10,31800000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm11,19800000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm12,35900000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm13,24900000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm14,37700000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm15,51300000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm16,57300000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm17,68900000.00,0,0,0,Recent runs performed by the author using the public fs51 binary
+result,ibm18,44100000.00,0,0,0,Recent runs performed by the author using the public fs51 binary

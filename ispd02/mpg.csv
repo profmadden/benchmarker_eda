@@ -1,0 +1,20 @@
+suite,ispd02,default
+addtool,mpg,url,mPG from UCLA ISPD02 benchmarks
+addrelease,mpg,ispd02
+result,ibm01,3010000.00,0,0,0,x
+result,ibm02,7420000.00,0,0,0,x
+result,ibm03,11200000.00,0,0,0,x
+result,ibm04,10500000.00,0,0,0,x
+result,ibm06,9210000.00,0,0,0,x
+result,ibm07,13700000.00,0,0,0,x
+result,ibm08,16400000.00,0,0,0,x
+result,ibm09,18600000.00,0,0,0,x
+result,ibm10,43600000.00,0,0,0,x
+result,ibm11,26500000.00,0,0,0,x
+result,ibm12,44300000.00,0,0,0,x
+result,ibm13,37700000.00,0,0,0,x
+result,ibm14,43500000.00,0,0,0,x
+result,ibm15,65500000.00,0,0,0,x
+result,ibm16,72400000.00,0,0,0,x
+result,ibm17,78500000.00,0,0,0,x
+result,ibm18,50700000.00,0,0,0,x

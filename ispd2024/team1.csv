@@ -1,0 +1,12 @@
+suite,ispd2024,contest
+addtool,team1,url,Team1 GR contest
+addrelease,team1,contest
+result,ariane_rank,11931752.82,2906688,10369862,22765372,From https://liangrj2014.github.io/ISPD24_contest/
+result,blackparrot_rank
+result,nvdla_rank
+result,mempool_tile_rank
+result,mempool_group_rank
+result,mempool_cluster_rank
+result,tera_cluster_rank
+
+importdir,ispd2024

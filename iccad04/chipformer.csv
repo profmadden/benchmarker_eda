@@ -1,0 +1,20 @@
+suite,iccad04,default
+addtool,chipformer,https://icml.cc/virtual/2023/poster/25027,ChiPFormer 
+addrelease,chipformer,ICML2023,2023-01-01
+result,ibm01,1670000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm02,3787000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm03,5763000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm04,6527000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm06,5257000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm07,8620000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm08,10226000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm09,10561000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm10,23039000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm11,16060000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm12,27314000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm13,19720000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm14,30128000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm15,42971000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm16,46332000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm17,56913000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x
+result,ibm18,37036000.00,0,0,0,Results published in Table 8 of ICML paper.  The authors have not been able to provide placement results that could be independently verified.,x

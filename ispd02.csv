@@ -1,0 +1,20 @@
+addsuite,ispd02,default,url,url,hpwl,time,na,na,ISPD02 Mixed Size Placement (based on ISPD98 partitioning benchmarks)
+addbench,ibm01,url,12506 cells
+addbench,ibm02,url,12506 cells
+addbench,ibm03,url,12506 cells
+addbench,ibm04,url,12506 cells
+addbench,ibm05,url,12506 cells
+addbench,ibm06,url,12506 cells
+addbench,ibm07,url,12506 cells
+addbench,ibm08,url,12506 cells
+addbench,ibm09,url,12506 cells
+addbench,ibm10,url,12506 cells
+addbench,ibm11,url,12506 cells
+addbench,ibm12,url,12506 cells
+addbench,ibm13,url,12506 cells
+addbench,ibm14,url,12506 cells
+addbench,ibm15,url,12506 cells
+addbench,ibm16,url,12506 cells
+addbench,ibm17,url,12506 cells
+addbench,ibm18,url,12506 cells
+importdir,ispd02

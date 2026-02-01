@@ -1,0 +1,11 @@
+suite,iccad04,default
+addtool,lamplace,http://dx.doi.org/10.1109/TCSII.2024.3375068,LAMPlace: Legalization-Aided Reinforcement Learning-Based Macro Placement for Mixed-Size Designs With Preplaced Blocks
+addrelease,lamplace,TCS2024,2024-08-01
+result,ibm01,3035762.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm02,5385216.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm03,7475616.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm04,8143239.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm06,6203237.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm07,11150942.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm08,14945876.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x
+result,ibm09,12912400.00,0,0,0,"Published in IEEE Trans C&S II - Placements are invalid, with macro blocks out of core.  Pads seem to be removed.",x

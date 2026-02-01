@@ -1,0 +1,8 @@
+addsuite,ispd2024,contest,https://github.com/liangrj2014/ISPD24_contest/blob/main/16_1_contest_slides_final.pptx,url,wl_cost,via_cost,overflow_cost,score,ISPD 2024 Global Routing Contest
+addbench,ariane_rank,url,Large global routing problem
+addbench,blackparrot_rank,url,Large global routing problem
+addbench,nvdla_rank,url,Large global routing problem
+addbench,mempool_tile_rank,url,Large global routing problem
+addbench,mempool_group_rank,url,Large global routing problem
+addbench,mempool_cluster_rank,url,Large global routing problem
+addbench,tera_cluster_rank,url,Large global routing problem

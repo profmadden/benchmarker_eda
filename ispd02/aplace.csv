@@ -1,0 +1,12 @@
+suite,ispd02,default
+addtool,aplace,url,"Aplace from UCSD, ISPD02 benchmarks"
+addrelease,aplace,ispd02
+result,ibm01,2300000.00,0,0,0,x
+result,ibm02,5000000.00,0,0,0,x
+result,ibm03,7200000.00,0,0,0,x
+result,ibm04,8300000.00,0,0,0,x
+result,ibm06,6800000.00,0,0,0,x
+result,ibm07,10500000.00,0,0,0,x
+result,ibm08,14600000.00,0,0,0,x
+result,ibm09,13800000.00,0,0,0,x
+result,ibm10,30000000.00,0,0,0,x
